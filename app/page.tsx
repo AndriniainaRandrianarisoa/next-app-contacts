@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="text-center">
       <h1 className="text-4xl font-bold text-gray-800 mb-6">
-        Bienvenue sur ContactBook
+        Bienvenue sur ContactBook coucou
       </h1>
       <p className="text-lg text-gray-600 mb-8">
         Gérez facilement vos contacts avec notre application simple et intuitive.
